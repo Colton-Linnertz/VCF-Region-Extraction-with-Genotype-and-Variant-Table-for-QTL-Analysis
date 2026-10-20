@@ -1,0 +1,1 @@
+# VCF-Region-Extraction-with-Genotype-and-Variant-Table-for-QTL-Analysis
